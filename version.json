@@ -1,5 +1,6 @@
-  {
-  "latest":"2.0.1",
-  "release":1590492529147,
-  "msg":"SQL Driver download fix, other bug fixes. Please update from 1.3.8 to 2.0.1, because in the new Version many critical bugs have been fixed!"
+{
+  "latest":"2.0.2",
+  "release":1592560640204,
+  "msg":"Fixed TPS drop while uploading/downloading large clipboards."
 }
+
